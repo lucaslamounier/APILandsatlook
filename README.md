@@ -5,8 +5,12 @@ ApiLandsatlook api to get data from usgs landsatlook
 Installation
 ------------
 
-    $ pip install https://github.com/lucaslamounier/APILandsatlook.git
+    $ git clone https://github.com/lucaslamounier/APILandsatlook.git
     
+    $ cd APILandsatlook
+    
+    $ python setup.py install 
+
 Usage
 -----
     api = ApiLandsatlook()
