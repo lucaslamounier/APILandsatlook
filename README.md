@@ -5,8 +5,6 @@ ApiLandsatlook api to get data from usgs landsatlook
 Installation
 ------------
 
-.. code-block:: bash
-
     $ pip install https://github.com/lucaslamounier/APILandsatlook.git
     
 Usage
